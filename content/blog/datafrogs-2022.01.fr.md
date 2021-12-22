@@ -26,3 +26,15 @@ Inscrivez-vous sur LinkedIn Events pour obtenir les informations pratiques.
 Les sessions seront disponibles pour tous, et concerneront principalement SQL Server on-premises ou sur Azure, le moteur relationnel, vous savez... 
 
 Il n'y aura aucun "Power..." dans ces sessions, c'est garanti !
+
+## Programme
+
+Heure | Session | Qui
+-------- | ------ | ------
+09.00 | Stockage SQL, virtualisation et performance | [David Barbarin, Migros Online](https://www.linkedin.com/in/mikedavem/)
+10h15 | Les groupes de disponibilité AlwaysOn de A à Z | [Christophe Laporte](https://www.linkedin.com/in/christophelaporte/)
+11h30 | Je veux migrer mes bases dans Azure MAIS … | [Julien Pierre, Microsoft](https://www.linkedin.com/in/julien-pierre-15782127/) et [Sylvain Pagès](https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/)
+13h30 | Gérer les bases de données à forte volumétries | [Arian Papillon, Datafly, MVP](https://www.linkedin.com/in/arianpapillon/)
+14h45 | SQL Server sur Google Cloud Platform | [Clément Hugé](https://www.linkedin.com/in/clementhuge/)
+16h00 | Simplifier vos projets BI grâce à Azure Data Factory | [Sébastien Kobenan](https://www.linkedin.com/in/sebastien-kobenan/)
+17h15 | Query Store, bientôt incontournable ? | [Steven NAUDET, dbi services](https://www.linkedin.com/in/steven-naudet-aa540158/)
