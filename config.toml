@@ -86,7 +86,7 @@ disableLanguages        = []
     theme               = "github-light"
 
   [params.staticman]
-    enabled             = true
+    enabled             = false
     api                 = ""  # No Trailing Slash
     gitProvider         = ""
     username            = ""

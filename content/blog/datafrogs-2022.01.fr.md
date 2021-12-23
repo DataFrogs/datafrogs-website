@@ -37,7 +37,7 @@ Heure | Session | Qui
 13h30 | [Gérer les bases de données à forte volumétrie]({{< relref path="#session04" >}}) | [Arian Papillon, Datafly, MVP](https://www.linkedin.com/in/arianpapillon/)
 14h45 | [SQL Server sur Google Cloud Platform]({{< relref path="#session05" >}}) | [Clément Hugé](https://www.linkedin.com/in/clementhuge/)
 16h00 | [Simplifier vos projets BI grâce à Azure Data Factory]({{< relref path="#session06" >}}) | [Sébastien Kobenan](https://www.linkedin.com/in/sebastien-kobenan/)
-17h15 | [Query Store, bientôt incontournable ?]({{< relref path="#session07" >}}) | [Steven NAUDET, dbi services](https://www.linkedin.com/in/steven-naudet-aa540158/)
+17h15 | [Query Store, bientôt incontournable ?]({{< relref path="#session07" >}}) | [Steven NAUDET, DBI Services](https://www.linkedin.com/in/steven-naudet-aa540158/)
 
 ## Programme détaillé
 
@@ -100,7 +100,7 @@ Nous aborderons également les diférentes fonctionnalités, comme la haute disp
 
 ### 17h15 &#10148; Query Store, bientôt incontournable ? {#session07}
 
-[Steven NAUDET, dbi services](https://www.linkedin.com/in/steven-naudet-aa540158/)
+[Steven NAUDET, DBI Services](https://www.linkedin.com/in/steven-naudet-aa540158/)
 
 Steven a 10 ans d'expérience SQL Server, il est actuellement consutant chez dbi services, en Suisse.  
 Le Query Store est une fonctionnalité disponible depuis SQL Server 2016 mais semble toujours assez peu utilisé.  
