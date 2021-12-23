@@ -38,7 +38,7 @@ disableLanguages        = []
   tocWords              = 400
 
   [params.meta]
-    description         = "French SQL Server Conference with French kisses"
+    description         = "French SQL Server Conference"
     author              = "rudi@pachadata.com"
     favicon             = false
     svg                 = true
@@ -55,7 +55,7 @@ disableLanguages        = []
 
   [params.intro]
     header                = "Data Frogs !"
-    paragraph             = "French SQL Server Conference with French kisses"
+    paragraph             = "French SQL Server Conference"
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
@@ -68,7 +68,7 @@ disableLanguages        = []
       alt                 = "DataFrogs"
 
   [params.sidebar]
-    about               = "French SQL Server Conference with French kisses"
+    about               = "French SQL Server Conference"
     postAmount          = 5
     categories          = false
     categoriesByCount   = false
