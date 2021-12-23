@@ -3,7 +3,7 @@ title = "DataFrogs 2022.01"
 description = "Conférence DataFrogs 2022.01, le 15 janvier 2022."
 author = "Rudi Bruchez"
 date = "2021-12-21"
-tags = ["markdown", "css", "html", "themes"]
+tags = ["sqlserver"]
 categories = ["conference", "sqlserver"]
 [[images]]
   src = "img/2021/12/datafrogs01.png"
