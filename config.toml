@@ -6,7 +6,7 @@ title                   = "DataFrogs"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = ""
-googleAnalytics         = ""
+googleAnalytics         = "G-V7KQR66W0F"
 pluralizeListTitles     = false
 disableLanguages        = []
 
