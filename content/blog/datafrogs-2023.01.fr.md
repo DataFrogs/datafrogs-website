@@ -32,7 +32,7 @@ Heure | Session | Qui |
 xxhxx | [Les nouveautés de SQL Server 2022]({{< relref path="#session01" >}}) | [Julien Pierre, Microsoft](https://www.linkedin.com/in/julien-pierre-15782127/) 
 xxhxx | [Azure]({{< relref path="#session02" >}}) | [Sylvain Pagès, Microsoft](https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/)
 xxhxx | [Les bonnes _mauvaises_ pratiques des groupes de disponibilité AlwaysOn]({{< relref path="#session03" >}}) | [Amar Adghar, Microsoft]() et [Stéphane Scherrer, Microsoft]() |
-xxhxx | [Nostalgie et expériences]({{< relref path="#session04" >}}) | La communauté SQL Server francophone |
+xxhxx | [SQL Server nostalgie]({{< relref path="#session04" >}}) | La communauté SQL Server francophone |
 ## Programme détaillé
 
 ### xxhxx &#10148; Stockage SQL, virtualisation et performances {#session01}
@@ -56,6 +56,6 @@ Alors, on va parler de quoi ?
 
 [_Amar Adghar, Microsoft_]() et [_Stéphane Scherrer, Microsoft_]()
 
-### xxhxx &#10148; Nostalgie et expériences
+### xxhxx &#10148; SQL Server nostalgie
 
 Dans cette heure de discussion à micros ouverts, les membres les plus anciens de la communauté SQL Server présentent leurs souvenirs et anecdotes les plus amusants et instructifs de leur "carrière" avec SQL Server.
