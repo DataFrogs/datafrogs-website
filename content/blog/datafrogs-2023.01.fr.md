@@ -30,7 +30,7 @@ Les sessions seront disponibles pour tous, et concerneront principalement SQL Se
 Heure | Session | Qui |
 -------- | ------ | ------ |
 xxhxx | [Les nouveautés de SQL Server 2022]({{< relref path="#session01" >}}) | [Julien Pierre, Microsoft](https://www.linkedin.com/in/julien-pierre-15782127/) 
-xxhxx | [Azure]({{< relref path="#session02" >}}) | [Sylvain Pagès](https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/)
+xxhxx | [Azure]({{< relref path="#session02" >}}) | [Sylvain Pagès, Microsoft](https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/)
 xxhxx | [Les bonnes _mauvaises_ pratique des groupes de disponibilité AlwaysOn]({{< relref path="#session03" >}}) | [Amar Adghar, Microsoft]() et [Stéphane Scherrer, Microsoft]() |
 
 ## Programme détaillé
@@ -48,7 +48,7 @@ vous présente en une heure le concentré des nouveautés de cette version :
 
 ### xxhxx &#10148; Azure {#session02}
 
-[_Sylvain Pagès_](https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/)
+[_Sylvain Pagès, Microsoft_](https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/)
 
 Alors, on va parler de quoi ?
 
