@@ -31,7 +31,7 @@ Heure | Session | Qui |
 -------- | ------ | ------ |
 xxhxx | [Les nouveautés de SQL Server 2022]({{< relref path="#session01" >}}) | [Julien Pierre, Microsoft](https://www.linkedin.com/in/julien-pierre-15782127/) 
 xxhxx | [Azure]({{< relref path="#session02" >}}) | [Sylvain Pagès, Microsoft](https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/)
-xxhxx | [Les bonnes _mauvaises_ pratique des groupes de disponibilité AlwaysOn]({{< relref path="#session03" >}}) | [Amar Adghar, Microsoft]() et [Stéphane Scherrer, Microsoft]() |
+xxhxx | [Les bonnes _mauvaises_ pratiques des groupes de disponibilité AlwaysOn]({{< relref path="#session03" >}}) | [Amar Adghar, Microsoft]() et [Stéphane Scherrer, Microsoft]() |
 
 ## Programme détaillé
 
@@ -52,7 +52,7 @@ vous présente en une heure le concentré des nouveautés de cette version :
 
 Alors, on va parler de quoi ?
 
-### xxhxx &#10148; Les bonnes _mauvaises_ pratique des groupes de disponibilité AlwaysOn {#session03}
+### xxhxx &#10148; Les bonnes _mauvaises_ pratiques des groupes de disponibilité AlwaysOn {#session03}
 
 [_Amar Adghar, Microsoft_]() et [_Stéphane Scherrer, Microsoft_]()
 
