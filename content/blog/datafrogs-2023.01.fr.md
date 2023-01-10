@@ -29,13 +29,13 @@ Les sessions seront disponibles pour tous, et concerneront principalement SQL Se
 
 Heure | Session | Qui |
 -------- | ------ | ------ |
-xxhxx | [Les nouveautés de SQL Server 2022]({{< relref path="#session01" >}}) | [Julien Pierre, Microsoft](https://www.linkedin.com/in/julien-pierre-15782127/) 
-xxhxx | [Azure]({{< relref path="#session02" >}}) | [Sylvain Pagès, Microsoft](https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/)
-xxhxx | [Les bonnes _mauvaises_ pratiques des groupes de disponibilité AlwaysOn]({{< relref path="#session03" >}}) | [Amar Adghar, Microsoft]() et [Stéphane Scherrer, Microsoft]() |
-xxhxx | [SQL Server nostalgie]({{< relref path="#session04" >}}) | La communauté SQL Server francophone |
+xxhxx | [Les nouveautés de SQL Server 2022]({{< relref path="#SqlServer2022" >}}) | [Julien Pierre, Microsoft](https://www.linkedin.com/in/julien-pierre-15782127/) 
+xxhxx | [Azure]({{< relref path="#Azure" >}}) | [Sylvain Pagès, Microsoft](https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/)
+xxhxx | [Les bonnes _mauvaises_ pratiques des groupes de disponibilité AlwaysOn]({{< relref path="#AlwaysOn" >}}) | [Amar Adghar, Microsoft]() et [Stéphane Scherrer, Microsoft]() |
+xxhxx | [SQL Server nostalgie]({{< relref path="#SQLServerNostalgie" >}}) | La communauté SQL Server francophone |
 ## Programme détaillé
 
-### xxhxx &#10148; Stockage SQL, virtualisation et performances {#session01}
+### xxhxx &#10148; Stockage SQL, virtualisation et performances {#SqlServer2022}
 
 [_Julien Pierre, Microsoft_](https://www.linkedin.com/in/julien-pierre-15782127/)
 
@@ -45,17 +45,16 @@ la réélection d'Emmanuel Macron à la présidence de la République française
 Il y a aussi la sortie de SQL Server 2022. Et qu'y a-t-il dedans ? Julien Pierre, Cloud solution Architect (CSA E) chez Microsoft, ancien MVP, 
 vous présente en une heure le concentré des nouveautés de cette version : 
 
-
-### xxhxx &#10148; Azure {#session02}
+### xxhxx &#10148; Azure {#Azure}
 
 [_Sylvain Pagès, Microsoft_](https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/)
 
 Alors, on va parler de quoi ?
 
-### xxhxx &#10148; Les bonnes _mauvaises_ pratiques des groupes de disponibilité AlwaysOn {#session03}
+### xxhxx &#10148; Les bonnes _mauvaises_ pratiques des groupes de disponibilité AlwaysOn {#AlwaysOn}
 
 [_Amar Adghar, Microsoft_]() et [_Stéphane Scherrer, Microsoft_]()
 
-### xxhxx &#10148; SQL Server nostalgie
+### xxhxx &#10148; SQL Server nostalgie {#SQLServerNostalgie}
 
 Dans cette heure de discussion à micros ouverts, les membres les plus anciens de la communauté SQL Server présentent leurs souvenirs et anecdotes les plus amusants et instructifs de leur "carrière" avec SQL Server.
