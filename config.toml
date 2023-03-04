@@ -62,7 +62,7 @@ disableLanguages        = []
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/frog-face.png"
+      src                 = "img/main/datafrogs_logo.jpg"
       shape               = "circle"
       width               = ""
       alt                 = "DataFrogs"
