@@ -21,9 +21,9 @@ DataFrogs est une conférence communautaire gratuite sur Microsoft SQL Server.
 
 Cette session aura lieu le samedi 18 mars en virtuel (lien fourni plus tard).
 
-Inscrivez-vous sur LinkedIn Events pour obtenir les informations pratiques.
+Inscrivez-vous sur [LinkedIn Events](https://www.linkedin.com/events/datafrogs2023-017018305962641874944/) pour obtenir les informations pratiques.
 
-Les sessions seront disponibles pour tous, et concerneront principalement SQL Server on-premises ou sur Azure, le moteur relationnel, vous savez... 
+Les sessions seront disponibles pour tous, et concerneront principalement SQL Server on-premises ou sur Azure, le moteur relationnel, vous savez...
 
 ## Programme
 
