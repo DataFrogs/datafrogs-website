@@ -6,7 +6,7 @@ date = "2023-01-10"
 tags = ["sqlserver"]
 categories = ["conference", "sqlserver"]
 [[images]]
-  src = "img/2021/12/datafrogs01.png"
+  src = "img/2023/datafrogs03.png"
   alt = "Vous êtes démasqué"
   stretch = "vertical"
 +++
