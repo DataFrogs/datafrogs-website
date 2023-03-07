@@ -50,7 +50,7 @@ On fait le tour sans casser d’œufs de poules ?
 
 [_Christophe Laporte, ConseilIt, MVP_](https://www.linkedin.com/in/christophelaporte/)
 
-Tout développeur ou administrateur de bases de données devrait comprendre comment SQL Server accès aux données.
+Tout développeur ou administrateur de bases de données devrait comprendre comment SQL Server accède aux données.
 
 Cette session vous permettra de revoir les basiques sur le stockage des données, les différents types d’index, mais aussi d’évaluer leur usage au travers de DMV/DMF. Les nombreuses démonstrations permettront également de comprendre certains opérateurs des plans d’exécution.
 
