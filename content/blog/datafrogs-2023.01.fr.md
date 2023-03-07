@@ -33,7 +33,7 @@ Les sessions seront disponibles pour tous, et concerneront principalement SQL Se
 | 10h15 | [SQL Server, les structures de données]({{< relref path="#SQLServerDonnees" >}}) | [Christophe Laporte, ConseilIt, MVP](https://www.linkedin.com/in/christophelaporte/) |
 | 11h30 | [Les bonnes _mauvaises_ pratiques des groupes de disponibilité AlwaysOn]({{< relref path="#AlwaysOn" >}}) | [Amar Adghar, Microsoft](https://www.linkedin.com/in/amar-adghar-22b300155/) et [Stéphane Scherrer, Microsoft](https://www.linkedin.com/in/stephanescherrer/) |
 | 13h30 | [Adoptez une approche Lakehouse pour vos projets BI avec Azure Synapse Analytics]({{< relref path="#Lakehouse" >}}) | [Sébastien Kobenan, Exakis Nelite](https://www.linkedin.com/in/sebastien-kobenan/) |
-| 14h45 | [Les nouveautés SQL Server 2022]({{< relref path="#SqlServer2022" >}}) | [Julien Pierre, Microsoft](https://www.linkedin.com/in/julien-pierre-15782127/) |
+| 14h45 | [Les nouveautés SQL Server 2022]({{< relref path="#SqlServer2022" >}}) | [Julien Pierre, Microsoft](https://www.linkedin.com/in/julien-pierre-15782127/) et [Pascal Deliot, Microsoft](https://www.linkedin.com/comm/in/pascal-deliot-332454) |
 | 16h00 | [Une histoire de mots... l'indexation textuelle]({{< relref path="#fts" >}}) | [Frédéric Brouard, SQL Spot](https://www.linkedin.com/in/frederic-brouard-alias-sqlpro-914761) et [Arian Papillon, Datafly, MVP](https://www.linkedin.com/in/arianpapillon/) |
 | 17h15 | [SQL Server nostalgie]({{< relref path="#SQLServerNostalgie" >}}) | La communauté SQL Server francophone |
 ## Programme détaillé
@@ -97,7 +97,7 @@ Et surtout nous allons voir que vous pouvez avoir le meilleur des deux mondes av
 
 ### 14h45 &#10148; Les nouveautés SQL Server 2022 {#SqlServer2022}
 
-[_Julien Pierre, Microsoft_](https://www.linkedin.com/in/julien-pierre-15782127/)
+[_Julien Pierre, Microsoft_](https://www.linkedin.com/in/julien-pierre-15782127/) et [_Pascal Deliot, Microsoft_](https://www.linkedin.com/comm/in/pascal-deliot-332454)
 
 2022 a été marqué par de bien nombreux événements : Les élections présidentielles / La guerre en Ukraine / La mort de la reine d'Angleterre…  Et l'arrivée de SQL Server 2022 !
 
