@@ -28,7 +28,7 @@ Les sessions seront disponibles pour tous, et concerneront principalement SQL Se
 ## Programme
 
 | Heure | Session | Qui |Lien|
-| -------- | ------ | ------ |
+| -------- | ------ | ------ | ---- |
 | 09h00 | [Azure Synapse, en avant les pools]({{< relref path="#AzureSynapse" >}}) | [Sylvain Pagès, Devoteam](https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/) |[Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTA5YmM4MzgtNWQ2ZC00MWIwLTkwYjYtOGE1NTY0MDI3M2Mw%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d)|
 | 10h15 | [SQL Server, les structures de données]({{< relref path="#SQLServerDonnees" >}}) | [Christophe Laporte, ConseilIt, MVP](https://www.linkedin.com/in/christophelaporte/) | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTMyYzEyNDMtMGIxOC00NWNhLTgxMWItYmU2NTM5ZWQ4ZTY2%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d) |
 | 11h30 | [Les bonnes _mauvaises_ pratiques des groupes de disponibilité AlwaysOn]({{< relref path="#AlwaysOn" >}}) | [Amar Adghar, Microsoft](https://www.linkedin.com/in/amar-adghar-22b300155/) et [Stéphane Scherrer, Microsoft](https://www.linkedin.com/in/stephanescherrer/) | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODIxZTg3NzgtMTc3Ny00NTI2LWE0M2EtOTdjMTZjMWM5YzRj%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d) |
