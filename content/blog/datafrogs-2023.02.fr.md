@@ -78,26 +78,26 @@ Si le temps nous le permet, nous verrons en bonus, les modes d'authentification 
 
 [_Stéphane Scherrer, Microsoft_](https://www.linkedin.com/in/stephanescherrer/) et [_Sylvain Pagès, Devoteam_](https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/)
 
-- Comment migrer un cluster AG sans perte de données.
-- Un point sur HA et DR
-- Considérations SLA
-- Préparation du groupe
-- On garde le hardware ou on ne le garde pas.
-- Démo
+- Comment migrer un Cluster WSFC et AlwaysON AG sans perte de données.
+- Un point sur HA (_High Avazilability_) et DR (_Distaster Recovery_)
+- Considérations sur le SLA (_Service Level Agreement_)
+- Préparation du groupe de disponibnilité
+- ALors, on conserve le même hardware ou non ?
+- Démo, bien sûr !
 - Retour d'expérience
-- Liens utiles
+- Liens et références utiles
 
 ### 13h30 &#10148; Faire cohabiter le décisionnel et le Transactionnel dans SQL Server {#OLAP}
 
 [_Amar Adghar, Microsoft_](https://www.linkedin.com/in/amar-adghar-22b300155/) et [_Julien Pierre, Microsoft_](https://www.linkedin.com/in/julien-pierre-15782127/) 
 
-Le but de cette session est de comprendre les différents principe de la modélisation transactionnel versus la modélisation décisionnel et de voir concrètement comment cela se traduit dans SQL Server
+Le but de cette session est de comprendre les principes de la modélisation transactionnelle, versus la modélisation décisionnelle et de voir comment cela se traduit concrètement dans SQL Server
 
-- Quelless sont les bonnes pratiques ?
-- Peut on faire communiquer un environnement décisionnel et transactionnel sur une même instance ? Dans une même base ?
-- Et avec la haute dispo ça marche ?
+- Quelles sont les bonnes pratiques ?
+- Peut-on faire communiquer un environnement décisionnel et transactionnel sur une même instance ? Dans une même base ?
+- Et avec la haute disponibilité, est-ce que ça marche ?
 
-Dans cette session nous essaierons de réponde a ces question et bien plus encore ;) ... 
+Dans cette session nous essaierons de réponde a ces question et bien plus encore ;) ...
 
 ### 14h45 &#10148; Utiliser les indicateurs de requêtes pour aider l'optimiseur {#QueryHints}
 
