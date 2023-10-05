@@ -36,6 +36,8 @@ Les sessions seront disponibles pour tous, et concerneront principalement SQL Se
 | 11h30 | [Migrer un groupe de disponibilité AlwaysOn sans perte du cluster]({{< relref path="#AlwaysOn" >}}) | [Stéphane Scherrer, Microsoft](https://www.linkedin.com/in/stephanescherrer/) et [Sylvain Pagès, Citeo](https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/) |
 | 13h30 | [Faire cohabiter le décisionnel et le Transactionnel dans SQL Server]({{< relref path="#OLAP" >}}) | [Amar Adghar, Microsoft](https://www.linkedin.com/in/amar-adghar-22b300155/) et [Julien Pierre, Microsoft](https://www.linkedin.com/in/julien-pierre-15782127/) |
 | 14h45 | [Utiliser les indicateurs de requêtes pour aider l'optimiseur]({{< relref path="#QueryHints" >}}) | [Arian Papillon, Datafly, MVP](https://www.linkedin.com/in/arianpapillon/) |
+| 16h00 | [Discussion !]({{< relref path="#chat" >}}) | Tout le monde |
+
 
 ## Programme détaillé
 
@@ -104,3 +106,7 @@ Dans cette session nous essaierons de réponde a ces question et bien plus encor
 L'optimiseur de SQL Server décide du meilleur plan d’exécution et il s’en débrouille plutôt bien. Mais comment faire pour lui forcer la main si on est sûr pouvoir faire mieux que lui ?
 
 Dans cette session, nous parcourons les indicateurs de requêtes (ou Query Hints) et observons leurs effets.
+
+### 16h00 &#10148; Discussion {"#chat"}
+
+Question ? Anecdotes ? Retours d'expérience ? Venez discuter avec nous !
