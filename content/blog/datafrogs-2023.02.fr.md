@@ -99,7 +99,7 @@ Le but de cette session est de comprendre les différents principe de la modéli
 
 Dans cette session nous essaierons de réponde a ces question et bien plus encore ;) ... 
 
-### 14h45 &#10148; Utiliser les indicateurs de requêtes pour aider l'optimiseur {"#QueryHints"}
+### 14h45 &#10148; Utiliser les indicateurs de requêtes pour aider l'optimiseur {#QueryHints}
 
 [_Arian Papillon, Datafly, MVP_](https://www.linkedin.com/in/arianpapillon/)
 
@@ -107,6 +107,6 @@ L'optimiseur de SQL Server décide du meilleur plan d’exécution et il s’en 
 
 Dans cette session, nous parcourons les indicateurs de requêtes (ou Query Hints) et observons leurs effets.
 
-### 16h00 &#10148; Discussion {"#chat"}
+### 16h00 &#10148; Discussion {#chat}
 
 Question ? Anecdotes ? Retours d'expérience ? Venez discuter avec nous !
