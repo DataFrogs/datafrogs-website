@@ -23,9 +23,9 @@ Cette session aura lieu le samedi 14 octobre 2023, en virtuel (Les liens pour le
 
 Inscrivez-vous sur [LinkedIn Events](https://www.linkedin.com/events/datafrogs2023-027094267767230513152/) pour obtenir les informations pratiques.
 
-Il y aura cette fois-ci cinq sessions, la conférence se tiendra donc du matin jusqu'en milieu d'après-midi.
+Il y aura cette fois-ci six sessions, la conférence se tiendra du matin jusqu'en fin d'après-midi. La dernière session sera une session _discussion_ où vous pourrez poser vos questions, partager vos expériences, etc. à micros ouverts. Profitez-en, beaucoup de gens de Microsoft seront présents !
 
-Les sessions seront disponibles pour tous, et concerneront principalement SQL Server on-premises ou sur Azure, le moteur relationnel, vous savez...
+Les sessions seront disponibles pour tous, et les enregistrements seront ensuite posés sur [la chaîne YouTube de DataFrogs](https://www.youtube.com/@datafrogs).
 
 ## Programme
 
