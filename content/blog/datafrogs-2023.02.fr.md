@@ -33,7 +33,7 @@ Les sessions seront disponibles pour tous, et les enregistrements seront ensuite
 | -------- | ------ | ------ |
 | 09h00 | [SQL Server Hybride Azure]({{< relref path="#Hybride" >}}) | [Stéphane Scherrer, Microsoft](https://www.linkedin.com/in/stephanescherrer/) et [Richard Prade, Microsoft](https://www.linkedin.com/in/richard-prade-81155b8/) |
 | 10h15 | [La gestion des droits dans SQL Server]({{< relref path="#Privileges" >}}) | [Sébastien Kobenan](https://www.linkedin.com/in/sebastien-kobenan/) |
-| 11h30 | [Migrer un groupe de disponibilité AlwaysOn sans perte du cluster]({{< relref path="#AlwaysOn" >}}) | [Stéphane Scherrer, Microsoft](https://www.linkedin.com/in/stephanescherrer/) et [Sylvain Pagès, Citeo](https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/) |
+| 11h30 | [Migrer un groupe de disponibilité AlwaysOn sans perte du cluster]({{< relref path="#AlwaysOn" >}}) | [Stéphane Scherrer, Microsoft](https://www.linkedin.com/in/stephanescherrer/) et [Sylvain Pagès, Devoteam](https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/) |
 | 13h30 | [Faire cohabiter le décisionnel et le Transactionnel dans SQL Server]({{< relref path="#OLAP" >}}) | [Amar Adghar, Microsoft](https://www.linkedin.com/in/amar-adghar-22b300155/) et [Julien Pierre, Microsoft](https://www.linkedin.com/in/julien-pierre-15782127/) |
 | 14h45 | [Utiliser les indicateurs de requêtes pour aider l'optimiseur]({{< relref path="#QueryHints" >}}) | [Arian Papillon, Datafly, MVP](https://www.linkedin.com/in/arianpapillon/) |
 | 16h00 | [Discussion !]({{< relref path="#chat" >}}) | Tout le monde |
@@ -76,7 +76,7 @@ Si le temps nous le permet, nous verrons en bonus, les modes d'authentification 
 
  ### 11h30 &#10148; Migrer un groupe de disponibilité AlwaysOn sans perte du cluster {#AlwaysOn}
 
-[_Stéphane Scherrer, Microsoft_](https://www.linkedin.com/in/stephanescherrer/) et [_Sylvain Pagès, Citeo_](https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/) |
+[_Stéphane Scherrer, Microsoft_](https://www.linkedin.com/in/stephanescherrer/) et [_Sylvain Pagès, Devoteam_](https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/)
 
 - Comment migrer un cluster AG sans perte de données.
 - Un point sur HA et DR
