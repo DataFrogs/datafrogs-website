@@ -74,15 +74,15 @@ Nous verrons :
 
 Si le temps nous le permet, nous verrons en bonus, les modes d'authentification dans SQL Server et surtout l'authentification Azure AD dans SQL Server 2022.
 
- ### 11h30 &#10148; Migrer un groupe de disponibilité AlwaysOn sans perte du cluster {#AlwaysOn}
+### 11h30 &#10148; Migrer un groupe de disponibilité AlwaysOn sans perte du cluster {#AlwaysOn}
 
 [_Stéphane Scherrer, Microsoft_](https://www.linkedin.com/in/stephanescherrer/) et [_Sylvain Pagès, Devoteam_](https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/)
 
-- Comment migrer un Cluster WSFC et AlwaysON AG sans perte de données.
-- Un point sur HA (_High Avazilability_) et DR (_Distaster Recovery_)
+- Comment migrer un Cluster WSFC et AlwaysOn AG sans perte du cluster.
+- Un point sur HA (_High Availability_) et DR (_Distaster Recovery_)
 - Considérations sur le SLA (_Service Level Agreement_)
-- Préparation du groupe de disponibnilité
-- ALors, on conserve le même hardware ou non ?
+- Préparation du groupe de disponibilité.
+- Alors, on conserve le même hardware ou non ?
 - Démo, bien sûr !
 - Retour d'expérience
 - Liens et références utiles
@@ -91,21 +91,21 @@ Si le temps nous le permet, nous verrons en bonus, les modes d'authentification 
 
 [_Amar Adghar, Microsoft_](https://www.linkedin.com/in/amar-adghar-22b300155/) et [_Julien Pierre, Microsoft_](https://www.linkedin.com/in/julien-pierre-15782127/) 
 
-Le but de cette session est de comprendre les principes de la modélisation transactionnelle, versus la modélisation décisionnelle et de voir comment cela se traduit concrètement dans SQL Server
+Le but de cette session est de comprendre les principes de la modélisation transactionnelle, versus la modélisation décisionnelle et de voir comment cela se traduit concrètement dans SQL Server.
 
 - Quelles sont les bonnes pratiques ?
 - Peut-on faire communiquer un environnement décisionnel et transactionnel sur une même instance ? Dans une même base ?
 - Et avec la haute disponibilité, est-ce que ça marche ?
 
-Dans cette session nous essaierons de réponde a ces question et bien plus encore ;) ...
+Dans cette session nous essaierons de répondre a ces questions et bien plus encore ;) ...
 
 ### 14h45 &#10148; Utiliser les indicateurs de requêtes pour aider l'optimiseur {#QueryHints}
 
 [_Arian Papillon, Datafly, MVP_](https://www.linkedin.com/in/arianpapillon/)
 
-L'optimiseur de SQL Server décide du meilleur plan d’exécution et il s’en débrouille plutôt bien. Mais comment faire pour lui forcer la main si on est sûr pouvoir faire mieux que lui ?
+L'optimiseur de SQL Server décide du meilleur plan d’exécution et il s’en débrouille plutôt bien. Mais comment faire pour lui forcer la main si on est sûr de pouvoir faire mieux que lui ?
 
-Dans cette session, nous parcourons les indicateurs de requêtes (ou Query Hints) et observons leurs effets.
+Dans cette session, nous parcourons les indicateurs de requêtes (ou _Query Hints_) et observons leurs effets.
 
 ### 16h00 &#10148; Discussion {#chat}
 
