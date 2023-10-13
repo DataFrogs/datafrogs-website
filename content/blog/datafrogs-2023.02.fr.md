@@ -29,14 +29,14 @@ Les sessions seront disponibles pour tous, et les enregistrements seront ensuite
 
 ## Programme
 
-| Heure | Session | Qui |
-| -------- | ------ | ------ |
-| 09h00 | [SQL Server Hybride Azure]({{< relref path="#Hybride" >}}) | [Stéphane Scherrer, Microsoft](https://www.linkedin.com/in/stephanescherrer/) et [Richard Prade, Microsoft](https://www.linkedin.com/in/richard-prade-81155b8/) |
-| 10h15 | [La gestion des droits dans SQL Server]({{< relref path="#Privileges" >}}) | [Sébastien Kobenan](https://www.linkedin.com/in/sebastien-kobenan/) |
-| 11h30 | [Migrer un groupe de disponibilité AlwaysOn sans perte du cluster]({{< relref path="#AlwaysOn" >}}) | [Stéphane Scherrer, Microsoft](https://www.linkedin.com/in/stephanescherrer/) et [Sylvain Pagès, Devoteam](https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/) |
-| 13h30 | [Faire cohabiter le décisionnel et le Transactionnel dans SQL Server]({{< relref path="#OLAP" >}}) | [Amar Adghar, Microsoft](https://www.linkedin.com/in/amar-adghar-22b300155/) et [Julien Pierre, Microsoft](https://www.linkedin.com/in/julien-pierre-15782127/) |
-| 14h45 | [Utiliser les indicateurs de requêtes pour aider l'optimiseur]({{< relref path="#QueryHints" >}}) | [Arian Papillon, Datafly, MVP](https://www.linkedin.com/in/arianpapillon/) |
-| 16h00 | [Discussion !]({{< relref path="#chat" >}}) | Tout le monde |
+| Heure | Session | Qui | Lien |
+| -------- | ------ | ------ | ------ |
+| 09h00 | [SQL Server Hybride Azure]({{< relref path="#Hybride" >}}) | [Stéphane Scherrer, Microsoft](https://www.linkedin.com/in/stephanescherrer/) et [Richard Prade, Microsoft](https://www.linkedin.com/in/richard-prade-81155b8/) | [Lien Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MThjZmNmNGItZTIzMy00MDg3LThlNTAtN2RhYTVmMThmYjAw%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d) |
+| 10h15 | [La gestion des droits dans SQL Server]({{< relref path="#Privileges" >}}) | [Sébastien Kobenan](https://www.linkedin.com/in/sebastien-kobenan/) | [Lien Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGQ5NjFiMzgtNzU2My00ZmQ0LWFkNTYtZmFiMzBmYzYyYWI3%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d) |
+| 11h30 | [Migrer un groupe de disponibilité AlwaysOn sans perte du cluster]({{< relref path="#AlwaysOn" >}}) | [Stéphane Scherrer, Microsoft](https://www.linkedin.com/in/stephanescherrer/) et [Sylvain Pagès, Devoteam](https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/) | [Lien Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjAxZTdhNjktNDljNC00MmVhLWIyYWQtZjljMjhmM2VhZmUw%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d) |
+| 13h30 | [Faire cohabiter le décisionnel et le Transactionnel dans SQL Server]({{< relref path="#OLAP" >}}) | [Amar Adghar, Microsoft](https://www.linkedin.com/in/amar-adghar-22b300155/) et [Julien Pierre, Microsoft](https://www.linkedin.com/in/julien-pierre-15782127/) | [Lien Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmZmZjA5ODMtZTgwYS00MzdlLWJhODgtMDRiZTA1NjI2NTY5%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d) |
+| 14h45 | [Utiliser les indicateurs de requêtes pour aider l'optimiseur]({{< relref path="#QueryHints" >}}) | [Arian Papillon, Datafly, MVP](https://www.linkedin.com/in/arianpapillon/) | [Lien Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDA2YzY3Y2UtNDU1NC00ZDQxLWE5NGYtMmYzNjliMTRmZGYz%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d) |
+| 16h00 | [Discussion !]({{< relref path="#chat" >}}) | Tout le monde | [Lien Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODJmYjZmYjktYjMxNS00NGMwLTlkOGMtZjBmMzNlOTJmMDYw%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d) |
 
 
 ## Programme détaillé
