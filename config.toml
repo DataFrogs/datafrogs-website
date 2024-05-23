@@ -3,7 +3,7 @@
 baseurl                 = "https://www.datafrogs.org/"
 DefaultContentLanguage  = "fr"
 title                   = "DataFrogs"
-theme                   = "hugo-future-imperfect-slim"
+theme                   = "beautifulhugo"
 paginate                = 3
 disqusShortname         = ""
 googleAnalytics         = "G-V7KQR66W0F"
