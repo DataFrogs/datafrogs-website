@@ -11,7 +11,7 @@ categories = ["conference", "sqlserver"]
   stretch = "vertical"
 +++
 
-**Inscrivez-vous sur [LinkedIn Events](https://www.linkedin.com/events/datafrogs2023-027094267767230513152/)**.
+**Inscrivez-vous sur [LinkedIn Events](https://www.linkedin.com/events/datafrogsjuin20247183857787653750784/)**.
 
 <!--more-->
 
