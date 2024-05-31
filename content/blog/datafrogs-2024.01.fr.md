@@ -1,5 +1,5 @@
 +++
-title = "DataFrogs 2023.01"
+title = "DataFrogs 2024.01"
 description = "Conférence DataFrogs 2024.01, le 1 juin 2024."
 author = "Rudi Bruchez"
 date = "2024-05-23"
