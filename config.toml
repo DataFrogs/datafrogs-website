@@ -4,7 +4,6 @@ baseurl                 = "https://www.datafrogs.org/"
 DefaultContentLanguage  = "fr"
 title                   = "DataFrogs"
 theme                   = "beautifulhugo"
-paginate                = 3
 disqusShortname         = ""
 googleAnalytics         = "G-V7KQR66W0F"
 pluralizeListTitles     = false
@@ -133,6 +132,11 @@ disableLanguages        = []
   #   url               = "contact"
   #   pre               = "<i class='far fa-envelope'></i>"
   #   weight            = 6
+
+[pagination]
+  disableAliases = false
+  pagerSize = 10
+  path = 'page'
 
 [Languages]
 
